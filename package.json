@@ -22,8 +22,7 @@
         "vasync": "^1.6.4",
         "verror": "^1.7.0",
 
-        "opentracing": "0.12.1",
-        "triton-tracer": "git+https://github.com/joshwilsdon/triton-tracer.git"
+        "triton-tracer": "git+https://github.com/joshwilsdon/triton-tracer.git#rfd-35-cls"
 
     },
     "directories": {
